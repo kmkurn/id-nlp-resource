@@ -32,3 +32,15 @@
 1. [PANL10N Indonesian translation of Penn treebank](http://www.panl10n.net/english/outputs/Indonesia/UI/0802/Parallel%20Corpus.zip).
    This corpus contains Indonesian translation of the Penn treebank. In total there are ~24K
    sentences.
+
+## Speech recognition
+
+1. [TITML-IDN speech corpus](http://research.nii.ac.jp/src/en/TITML-IDN.html).
+   The corpus contains 20 speakers (11 male and 9 female), where each of the speaker speaks 343 utterances.
+   The utterances are phonetically balanced.
+   
+   The corpus itself is free to use for academic/non-commercial usage, but interested party should make a formal request via email to the institution.
+   The procedure is listed [here](http://research.nii.ac.jp/src/en/register.html)
+
+1. [frankydotid/Indonesian-Speech-Recognition](https://github.com/frankydotid/Indonesian-Speech-Recognition).
+   A small corpus of 50 utterances by a single male speaker.
