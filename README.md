@@ -12,9 +12,9 @@
 ## POS tagging
 
 1. [PANL10N POS tagging](http://www.panl10n.net/english/outputs/Indonesia/UI/0802/UI-1M-tagged.zip).
-   This corpus has 39K sentences and ~900K word tokens.
+   This corpus has 39K sentences and 900K word tokens.
 1. [IDN tagged corpus](https://github.com/famrashel/idn-tagged-corpus). This corpus contains
-   ~10K sentences and 250K word tokens. The POS tags are annotated manually.
+   10K sentences and 250K word tokens. The POS tags are annotated manually.
 
 ## Syntactic parsing
 
@@ -30,7 +30,7 @@
    This corpus has sentences from news articles from several categories: economy (6K sentences),
    international (6K sentences), science (6K sentences), and sport (4K sentences).
 1. [PANL10N Indonesian translation of Penn treebank](http://www.panl10n.net/english/outputs/Indonesia/UI/0802/Parallel%20Corpus.zip).
-   This corpus contains Indonesian translation of the Penn treebank. In total there are ~24K
+   This corpus contains Indonesian translation of the Penn treebank. In total there are 24K
    sentences.
 
 ## Text Summarization
