@@ -33,12 +33,18 @@
    This corpus contains Indonesian translation of the Penn treebank. In total there are ~24K
    sentences.
 
+## Text Summarization
+
+1. [IndoSum](https://github.com/kata-ai/indosum).
+    A collection of 20K online news article-summary pairs belonging to 6 categories and 10 sources.
+    It has both abstractive summaries and extractive labels.
+
 ## Speech recognition
 
 1. [TITML-IDN speech corpus](http://research.nii.ac.jp/src/en/TITML-IDN.html).
    The corpus contains 20 speakers (11 male and 9 female), where each of the speaker speaks 343 utterances.
    The utterances are phonetically balanced.
-   
+
    The corpus itself is free to use for academic/non-commercial usage, but interested party should make a formal request via email to the institution.
    The procedure is listed [here](http://research.nii.ac.jp/src/en/register.html)
 
