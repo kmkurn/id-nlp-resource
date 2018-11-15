@@ -12,17 +12,17 @@
 ## POS tagging
 
 1. [PANL10N POS tagging](http://www.panl10n.net/english/outputs/Indonesia/UI/0802/UI-1M-tagged.zip).
-   This corpus has ~39K sentences and ~900K word tokens.
+   This corpus has 39K sentences and ~900K word tokens.
 1. [IDN tagged corpus](https://github.com/famrashel/idn-tagged-corpus). This corpus contains
-   ~10K sentences and ~250K word tokens. The POS tags are annotated manually.
+   ~10K sentences and 250K word tokens. The POS tags are annotated manually.
 
 ## Syntactic parsing
 
-1. [Indonesian Treebank](https://github.com/famrashel/idn-treebank). This corpus contains ~1K parsed
+1. [Indonesian Treebank](https://github.com/famrashel/idn-treebank). This corpus contains 1K parsed
    sentences. (constituency parsing)
 1. [UD Indonesian](https://github.com/UniversalDependencies/UD_Indonesian-GSD). This corpus is
    provided by [Universal Dependencies](http://universaldependencies.org/). Training, development,
-   and testing split is already provided. (dependency parsing)
+   and testing split are already provided. (dependency parsing)
 
 ## Machine translation
 
