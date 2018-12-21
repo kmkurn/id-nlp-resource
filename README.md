@@ -44,3 +44,6 @@
 
 1. [frankydotid/Indonesian-Speech-Recognition](https://github.com/frankydotid/Indonesian-Speech-Recognition).
    A small corpus of 50 utterances by a single male speaker.
+
+1. [CMU Wilderness Multilingual Speech Dataset](https://github.com/festvox/datasets-CMU_Wilderness).
+   A dataset of over 700 different languages providing audio, aligned text and word pronunciations. One of the language is Indonesian. The utterance is read from bible, which is recorded by [bible.is](bible.is)
