@@ -39,6 +39,11 @@
     A collection of 20K online news article-summary pairs belonging to 6 categories and 10 sources.
     It has both abstractive summaries and extractive labels.
 
+## Text Classification
+
+1. [SMS Spam](http://nlp.yuliadi.pro/static/dataset_sms_spam_bhs_indonesia.zip).
+   This corpus contains 1143 sentences that have been labeled with normal message, fraud, promotion. It is provided by http://nlp.yuliadi.pro/dataset
+   
 ## Speech recognition
 
 1. [TITML-IDN speech corpus](http://research.nii.ac.jp/src/en/TITML-IDN.html).
