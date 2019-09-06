@@ -16,6 +16,13 @@
 1. [IDN tagged corpus](https://github.com/famrashel/idn-tagged-corpus). This corpus contains
    10K sentences and 250K word tokens. The POS tags are annotated manually.
 
+## Sentiment Analysis
+
+1. [Aspect and Opinion Terms Extraction for Hotel Reviews](https://github.com/jordhy97/final_project).
+    The corpus consists of 5000 hotel reviews from [Airy](https://www.airyrooms.com/) (78K tokens) with 5 labels. The paper is available on [arXiv](https://arxiv.org/abs/1908.04899).
+1. [Aspect-Based Sentiment Analysis](https://github.com/annisanurulazhar/absa-playground).
+    A text classification resource for multi-label aspect categorization.
+
 ## Syntactic parsing
 
 1. [Indonesian Treebank](https://github.com/famrashel/idn-treebank). This corpus contains 1K parsed
@@ -35,7 +42,7 @@
 
 ## Word Normalization
 
-1. [Colloquial Indonesian Lexicon](https://github.com/nasalsabila/kamus-alay)
+1. [Colloquial Indonesian Lexicon](https://github.com/nasalsabila/kamus-alay).
     This lexicon consists of 3592 unique colloquial tokens that are mapped onto 1742 unique lemmas. The full description of this lexicon can be seen in the [paper](https://ieeexplore.ieee.org/abstract/document/8629151).
 
 ## Text Summarization
@@ -48,9 +55,9 @@
 
 1. [SMS Spam](http://nlp.yuliadi.pro/static/dataset_sms_spam_bhs_indonesia.zip).
    This corpus contains 1143 sentences that have been labeled with normal message, fraud, promotion. It is provided by http://nlp.yuliadi.pro/dataset
-1. [Hate Speech Detection](https://github.com/ialfina/id-hatespeech-detection)
+1. [Hate Speech Detection](https://github.com/ialfina/id-hatespeech-detection).
     This dataset consists of 713 tweets in the Indonesian language with 453 non hate speech and 260 hate speech tweets.
-1. [Abusive Language Detection](https://github.com/okkyibrohim/id-abusive-language-detection)
+1. [Abusive Language Detection](https://github.com/okkyibrohim/id-abusive-language-detection).
     A collection of tweets for abusive language detection in Indonesian social media. It consists of two types of labelling, abusive/not abusive and not abusive/abusive but not offensive/offensive. It also has its own colloquial Indonesian lexicon.
    
 ## Speech recognition
@@ -58,13 +65,10 @@
 1. [TITML-IDN speech corpus](http://research.nii.ac.jp/src/en/TITML-IDN.html).
    The corpus contains 20 speakers (11 male and 9 female), where each of the speaker speaks 343 utterances.
    The utterances are phonetically balanced.
-
    The corpus itself is free to use for academic/non-commercial usage, but interested party should make a formal request via email to the institution.
-   The procedure is listed [here](http://research.nii.ac.jp/src/en/register.html)
-
+   The procedure is listed [here](http://research.nii.ac.jp/src/en/register.html).
 1. [Indonesian Speech Recognition](https://github.com/frankydotid/Indonesian-Speech-Recognition).
    A small corpus of 50 utterances by a single male speaker. Disclaimer: This is a school project, do not use it for any important tasks. The author is not responsible for the undesired results of using the data provided here.
-
 1. [CMU Wilderness Multilingual Speech Dataset](https://github.com/festvox/datasets-CMU_Wilderness).
    A dataset of over 700 different languages providing audio, aligned texts, and word pronunciations.
    One of the languages is Indonesian. The utterances are read from the bible, which is recorded by [bible.is](bible.is).
