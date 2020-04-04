@@ -8,7 +8,9 @@
 1. [Tempo online collection](http://ilps.science.uva.nl/ilps/wp-content/uploads/sites/6/files/bahasaindonesia/tempo.zip).
    This corpus contains [Tempo online](https://www.tempo.co/) news articles from 2000-2002. See
    [here](http://ilps.science.uva.nl/resources/bahasa/) for more info and citations.
-1. [OSCAR](https://traces1.inria.fr/oscar/#corpus). This large corpus contains articles from many sources crawled by [CommonCrawl](https://commoncrawl.org/) extracted by [ALMAnaCH](https://team.inria.fr/almanach/). In total there are 2M words for deduplicated file. (Caution, there are a lot of strong languages which most of them were from gambling sites.)
+1. [OSCAR](https://traces1.inria.fr/oscar/#corpus). This large corpus contains articles from many sources crawled by
+   [CommonCrawl](https://commoncrawl.org/) and extracted by [ALMAnaCH](https://team.inria.fr/almanach/). In total there are
+   4B words tokens and 2B word types. (NOTE: Contains strong language, mostly coming from gambling sites.)
 
 ## POS tagging
 
@@ -40,7 +42,8 @@
 1. [PANL10N Indonesian translation of Penn treebank](http://www.panl10n.net/english/outputs/Indonesia/UI/0802/Parallel%20Corpus.zip).
    This corpus contains Indonesian translation of the Penn treebank. In total there are 24K
    sentences.
-1. [OPUS (Open Parallel Corpus)](http://opus.nlpl.eu/). This corpus contains parallel corpus of Bahasa Indonesia and other languages based on openly available resources (e.g. OpenSubtitles).
+1. [OPUS (Open Parallel Corpus)](http://opus.nlpl.eu/). This site contains parallel corpora of Indonesian and other languages
+   based on openly available resources (e.g., OpenSubtitles).
 
 ## Word Normalization
 
