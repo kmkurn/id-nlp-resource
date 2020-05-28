@@ -44,6 +44,13 @@
    sentences.
 1. [OPUS (Open Parallel Corpus)](http://opus.nlpl.eu/). This site contains parallel corpora of Indonesian and other languages
    based on openly available resources (e.g., OpenSubtitles).
+1. [IDENTICv1.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0005-BF85-F?show=full) [[paper](http://www.lrec-conf.org/proceedings/lrec2012/pdf/644_Paper.pdf)].
+    Indonesian (ID)-English (EN). 45k sentences/~1M tokens (ID). Domain: science, sport, international, economy, news article, movie subtitle. It may overlap with PANL10N corpus. The dataset has versions with raw and tokenized sentences, and in CoNLL format.
+1. [IWSLT2017](https://wit3.fbk.eu/mt.php?release=2017-01-more)         [[paper](https://wit3.fbk.eu/papers/WIT3-EAMT2012.pdf)].
+    ID-EN. ~100k sentences. TEDtalk subtitles (spoken language).
+    NOTE: the test set tst2017-plus provided contains a small part of the train data (as mentioned [here](https://www.aclweb.org/anthology/P19-2043.pdf)).
+1. [Asian Language Treebank](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/) [[paper](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/ALT-Parallel-Corpus-20171201/ALT-O-COCOSDA.pdf)].
+    ID, EN, and some Asian languages (mostly South East Asian). 20k sentences. Domain: News.
 
 ## Word Normalization
 
@@ -64,7 +71,7 @@
     This dataset consists of 713 tweets in the Indonesian language with 453 non hate speech and 260 hate speech tweets.
 1. [Abusive Language Detection](https://github.com/okkyibrohim/id-abusive-language-detection).
     A collection of tweets for abusive language detection in Indonesian social media. It consists of two types of labelling, abusive/not abusive and not abusive/abusive but not offensive/offensive. It also has its own colloquial Indonesian lexicon.
-   
+
 ## Speech recognition
 
 1. [TITML-IDN speech corpus](http://research.nii.ac.jp/src/en/TITML-IDN.html).
