@@ -19,7 +19,7 @@
 1. [IDN tagged corpus](https://github.com/famrashel/idn-tagged-corpus). This corpus contains
    10K sentences and 250K word tokens. The POS tags are annotated manually.
 
-## Sentiment Analysis
+## Sentiment analysis
 
 1. [Aspect and Opinion Terms Extraction for Hotel Reviews](https://github.com/jordhy97/final_project).
     The corpus consists of 5000 hotel reviews from [Airy](https://www.airyrooms.com/) (78K tokens) with 5 labels. The paper is available on [arXiv](https://arxiv.org/abs/1908.04899).
@@ -52,18 +52,18 @@
 1. [Asian Language Treebank](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/) [[paper](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/ALT-Parallel-Corpus-20171201/ALT-O-COCOSDA.pdf)].
     ID, EN, and some Asian languages (mostly South East Asian). 20k sentences. Domain: News.
 
-## Word Normalization
+## Word normalization
 
 1. [Colloquial Indonesian Lexicon](https://github.com/nasalsabila/kamus-alay).
     This lexicon consists of 3592 unique colloquial tokens that are mapped onto 1742 unique lemmas. The full description of this lexicon can be seen in the [paper](https://ieeexplore.ieee.org/abstract/document/8629151).
 
-## Text Summarization
+## Text summarization
 
 1. [IndoSum](https://github.com/kata-ai/indosum).
     A collection of 20K online news article-summary pairs belonging to 6 categories and 10 sources.
     It has both abstractive summaries and extractive labels.
 
-## Text Classification
+## Text classification
 
 1. [SMS Spam](http://nlp.yuliadi.pro/static/dataset_sms_spam_bhs_indonesia.zip).
    This corpus contains 1143 sentences that have been labeled with normal message, fraud, promotion. It is provided by http://nlp.yuliadi.pro/dataset
