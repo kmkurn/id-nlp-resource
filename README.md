@@ -65,8 +65,8 @@
 
 ## Text classification
 
-1. [SMS Spam](http://nlp.yuliadi.pro/static/dataset_sms_spam_bhs_indonesia.zip).
-   This corpus contains 1143 sentences that have been labeled with normal message, fraud, promotion. It is provided by http://nlp.yuliadi.pro/dataset
+1. [SMS Spam](https://drive.google.com/file/d/1-stKadfTgJLtYsHWqXhGO3nTjKVFxm_Q/view).
+   This corpus contains 1143 sentences that have been labeled with normal message, fraud, promotion. It is provided by Yudi Wibisono
 1. [Hate Speech Detection](https://github.com/ialfina/id-hatespeech-detection).
     This dataset consists of 713 tweets in the Indonesian language with 453 non hate speech and 260 hate speech tweets.
 1. [Abusive Language Detection](https://github.com/okkyibrohim/id-abusive-language-detection).
