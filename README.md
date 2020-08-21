@@ -8,6 +8,11 @@
 1. [Tempo online collection](http://ilps.science.uva.nl/ilps/wp-content/uploads/sites/6/files/bahasaindonesia/tempo.zip).
    This corpus contains [Tempo online](https://www.tempo.co/) news articles from 2000-2002. See
    [here](http://ilps.science.uva.nl/resources/bahasa/) for more info and citations.
+1. [OSCAR](https://traces1.inria.fr/oscar/#corpus). This large corpus contains articles from many sources crawled by
+   [CommonCrawl](https://commoncrawl.org/) and extracted by [ALMAnaCH](https://team.inria.fr/almanach/). In total there are
+   4B words tokens and 2B word types. (NOTE: Contains strong language, mostly coming from gambling sites.)
+1. [Leipzig corpora collection](https://corpora.uni-leipzig.de/en?corpusId=ind_mixed_2013). Indonesian mixed corpus
+   based on material from 2013. Sentences: 74,329,815 - Types: 7,964,109 - Tokens: 1,206,281,985. From news materials, randomly chosen websites, and Wikipedia dumps.
 
 ## POS tagging
 
@@ -16,7 +21,7 @@
 1. [IDN tagged corpus](https://github.com/famrashel/idn-tagged-corpus). This corpus contains
    10K sentences and 250K word tokens. The POS tags are annotated manually.
 
-## Sentiment Analysis
+## Sentiment analysis
 
 1. [Aspect and Opinion Terms Extraction for Hotel Reviews](https://github.com/jordhy97/final_project).
     The corpus consists of 5000 hotel reviews from [Airy](https://www.airyrooms.com/) (78K tokens) with 5 labels. The paper is available on [arXiv](https://arxiv.org/abs/1908.04899).
@@ -39,27 +44,36 @@
 1. [PANL10N Indonesian translation of Penn treebank](http://www.panl10n.net/english/outputs/Indonesia/UI/0802/Parallel%20Corpus.zip).
    This corpus contains Indonesian translation of the Penn treebank. In total there are 24K
    sentences.
+1. [OPUS (Open Parallel Corpus)](http://opus.nlpl.eu/). This site contains parallel corpora of Indonesian and other languages
+   based on openly available resources (e.g., OpenSubtitles).
+1. [IDENTICv1.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0005-BF85-F?show=full) [[paper](http://www.lrec-conf.org/proceedings/lrec2012/pdf/644_Paper.pdf)].
+    Indonesian (ID)-English (EN). 45k sentences/~1M tokens (ID). Domain: science, sport, international, economy, news article, movie subtitle. It may overlap with PANL10N corpus. The dataset has versions with raw and tokenized sentences, and in CoNLL format.
+1. [IWSLT2017](https://wit3.fbk.eu/mt.php?release=2017-01-more)         [[paper](https://wit3.fbk.eu/papers/WIT3-EAMT2012.pdf)].
+    ID-EN. ~100k sentences. TEDtalk subtitles (spoken language).
+    NOTE: the test set tst2017-plus provided contains a small part of the train data (as mentioned [here](https://www.aclweb.org/anthology/P19-2043.pdf)).
+1. [Asian Language Treebank](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/) [[paper](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/ALT-Parallel-Corpus-20171201/ALT-O-COCOSDA.pdf)].
+    ID, EN, and some Asian languages (mostly South East Asian). 20k sentences. Domain: News.
 
-## Word Normalization
+## Word normalization
 
 1. [Colloquial Indonesian Lexicon](https://github.com/nasalsabila/kamus-alay).
     This lexicon consists of 3592 unique colloquial tokens that are mapped onto 1742 unique lemmas. The full description of this lexicon can be seen in the [paper](https://ieeexplore.ieee.org/abstract/document/8629151).
 
-## Text Summarization
+## Text summarization
 
 1. [IndoSum](https://github.com/kata-ai/indosum).
     A collection of 20K online news article-summary pairs belonging to 6 categories and 10 sources.
     It has both abstractive summaries and extractive labels.
 
-## Text Classification
+## Text classification
 
-1. [SMS Spam](http://nlp.yuliadi.pro/static/dataset_sms_spam_bhs_indonesia.zip).
-   This corpus contains 1143 sentences that have been labeled with normal message, fraud, promotion. It is provided by http://nlp.yuliadi.pro/dataset
+1. [SMS Spam](https://drive.google.com/file/d/1-stKadfTgJLtYsHWqXhGO3nTjKVFxm_Q/view).
+   This corpus contains 1143 sentences that have been labeled with normal message, fraud, promotion. It is provided by Yudi Wibisono
 1. [Hate Speech Detection](https://github.com/ialfina/id-hatespeech-detection).
     This dataset consists of 713 tweets in the Indonesian language with 453 non hate speech and 260 hate speech tweets.
 1. [Abusive Language Detection](https://github.com/okkyibrohim/id-abusive-language-detection).
     A collection of tweets for abusive language detection in Indonesian social media. It consists of two types of labelling, abusive/not abusive and not abusive/abusive but not offensive/offensive. It also has its own colloquial Indonesian lexicon.
-   
+
 ## Speech recognition
 
 1. [TITML-IDN speech corpus](http://research.nii.ac.jp/src/en/TITML-IDN.html).
