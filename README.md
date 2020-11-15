@@ -13,6 +13,7 @@
    4B words tokens and 2B word types. (NOTE: Contains strong language, mostly coming from gambling sites.)
 1. [Leipzig corpora collection](https://corpora.uni-leipzig.de/en?corpusId=ind_mixed_2013). Indonesian mixed corpus
    based on material from 2013. Sentences: 74,329,815 - Types: 7,964,109 - Tokens: 1,206,281,985. From news materials, randomly chosen websites, and Wikipedia dumps.
+1. [CC-100](http://data.statmt.org/cc-100/). This large corpus contains articles from many sources crawled by [CommonCrawl](https://commoncrawl.org/) and extracted by [FAIR](https://github.com/facebookresearch). For Bahasa Indonesia, in total there are around 4.8B sentences and 6B sentence piece tokens. See [here](https://www.aclweb.org/anthology/2020.lrec-1.494.pdf) for more info and citations.
 
 ## POS tagging
 
