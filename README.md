@@ -94,4 +94,5 @@ that were trained on a large [corpus](https://storage.googleapis.com/babert-pret
 ## Paraphrase Identification
 
 1. [Translated PAWS](https://github.com/Wikidepia/indonesia_dataset/tree/master/paraphrase/PAWS).
-   This dataset is a translation of [PAWS](https://github.com/google-research-datasets/paws).
+   This dataset is a translation of [PAWS](https://github.com/google-research-datasets/paws). Translated using Google Translate.
+   This dataset contains 100k human-labeled that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identification.
