@@ -90,3 +90,8 @@ that were trained on a large [corpus](https://storage.googleapis.com/babert-pret
 1. [CMU Wilderness Multilingual Speech Dataset](https://github.com/festvox/datasets-CMU_Wilderness).
    A dataset of over 700 different languages providing audio, aligned texts, and word pronunciations.
    One of the languages is Indonesian. The utterances are read from the bible, which is recorded by [bible.is](bible.is).
+
+## Paraphrase Identification
+
+1. [Translated PAWS](https://github.com/Wikidepia/indonesia_dataset/tree/master/paraphrase/PAWS).
+   This dataset is a translation of [PAWS](https://github.com/google-research-datasets/paws).
