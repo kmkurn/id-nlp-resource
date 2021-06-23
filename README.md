@@ -17,6 +17,8 @@
 1. [IndoNLU Benchmark](https://www.indobenchmark.com/) A collective effort made by researchers and practitioners from Gojek, Institut Teknologi Bandung, HKUST, Universitas Multimedia Nusantara, Prosa.ai, and Universitas Indonesia.
 They provide pre-trained BERT/ALBERT [language models](https://huggingface.co/indobenchmark)
 that were trained on a large [corpus](https://storage.googleapis.com/babert-pretraining/IndoNLU_finals/dataset/preprocessed/dataset_all_uncased_blankline.txt.xz) of 4B words (250M sentences). They also create single-sentence and sentence-pair [datasets](https://github.com/indobenchmark/indonlu) for evaluating classification and sequence-tagging tasks.
+1. [Indonesian News Corpus](https://data.mendeley.com/datasets/2zpbjs22k3/1).
+   This corpus contains 150,466 news articles crawled from various Indonesian news portals from the second half of 2015.
 
 ## POS tagging
 
