@@ -22,8 +22,6 @@ that were trained on a large [corpus](https://storage.googleapis.com/babert-pret
 
 ## POS tagging
 
-1. [PANL10N POS tagging](http://www.panl10n.net/english/outputs/Indonesia/UI/0802/UI-1M-tagged.zip).
-   This corpus has 39K sentences and 900K word tokens.
 1. [IDN tagged corpus](https://github.com/famrashel/idn-tagged-corpus). This corpus contains
    10K sentences and 250K word tokens. The POS tags are annotated manually.
 
@@ -44,12 +42,6 @@ that were trained on a large [corpus](https://storage.googleapis.com/babert-pret
 
 ## Machine translation
 
-1. [PANL10N EN-ID news parallel corpus](http://www.panl10n.net/english/outputs/Indonesia/BPPT/0902/BPPTIndToEngCorpusHalfM.zip).
-   This corpus has sentences from news articles from several categories: economy (6K sentences),
-   international (6K sentences), science (6K sentences), and sport (4K sentences).
-1. [PANL10N Indonesian translation of Penn treebank](http://www.panl10n.net/english/outputs/Indonesia/UI/0802/Parallel%20Corpus.zip).
-   This corpus contains Indonesian translation of the Penn treebank. In total there are 24K
-   sentences.
 1. [OPUS (Open Parallel Corpus)](http://opus.nlpl.eu/). This site contains parallel corpora of Indonesian and other languages
    based on openly available resources (e.g., OpenSubtitles).
 1. [IDENTICv1.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0005-BF85-F?show=full) [[paper](http://www.lrec-conf.org/proceedings/lrec2012/pdf/644_Paper.pdf)].
