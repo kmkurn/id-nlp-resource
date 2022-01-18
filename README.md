@@ -79,6 +79,10 @@ that were trained on a large [corpus](https://storage.googleapis.com/babert-pret
    The utterances are phonetically balanced.
    The corpus itself is free to use for academic/non-commercial usage, but interested party should make a formal request via email to the institution.
    The procedure is listed [here](http://research.nii.ac.jp/src/en/register.html).
+1. [BPPT Medical Speech Corpus](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/document/9527450)
+   A medical Indonesian speech corpus of 100 speakers (50 male and 50 female), with each speaker speaks 600 utterances. The corpus has a total duration of 81.68 hours. The recording process was performed under the supervision of a phonetician.
+1. [MEDISCO speech corpus](https://ieeexplore.ieee.org/document/8629259)
+   A medical Indonesian speech corpus of 13 speakers  (7 male and 6 female), with each speaker speaks 360 utterances. The corpus contains 731 medical terms and has a total duration of 10 hours. The utterances are phonetically balanced. The corpus is free to use for academic usage and can be requested through https://bit.ly/medisco-form
 1. [Indonesian Speech Recognition](https://github.com/frankydotid/Indonesian-Speech-Recognition).
    A small corpus of 50 utterances by a single male speaker. Disclaimer: This is a school project, do not use it for any important tasks. The author is not responsible for the undesired results of using the data provided here.
 1. [CMU Wilderness Multilingual Speech Dataset](https://github.com/festvox/datasets-CMU_Wilderness).
